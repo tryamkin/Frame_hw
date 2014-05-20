@@ -6,6 +6,9 @@ import android.app.Activity;
 public class Fragment_right extends Activity  {
 
 
+
+
+    //hi!
 //    @Override
 //    public void onCreate(Bundle savedInstanceState) {
 //        super.onCreate(savedInstanceState);
