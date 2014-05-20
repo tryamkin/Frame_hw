@@ -8,7 +8,16 @@ public class Fragment_right extends Activity  {
 
 
 
-    //hi!
+
+//
+//    df'lafklkjasdf
+//
+//            dfg
+//    sfg
+//    fs
+//    g
+//    f'
+
 //    @Override
 //    public void onCreate(Bundle savedInstanceState) {
 //        super.onCreate(savedInstanceState);
