@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="but1">Show fragment 2</string>
+    <string name="fr2">I`m Fragment 2</string>
+    <string name="fr1">I`m Fragment 1</string>
+
+</resources>
